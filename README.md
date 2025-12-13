@@ -66,4 +66,6 @@ All rights to the content, branding, and downloads are reserved.
 
 <p align="center">
   <sub>Official Clyra distribution site</sub>
+  <sub>© Clyra. All Rights Reserved.</sub>
+  <sub>Clyra Corporation, Inc</sub>
 </p>
