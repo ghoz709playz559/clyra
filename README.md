@@ -70,3 +70,6 @@ All rights to the content, branding, and downloads are reserved.
   <sub>© Clyra. All Rights Reserved.</sub>
   <sub>Clyra Corporation, Inc</sub>
 </p>
+
+<p align="center">
+  <img src=https://img.shields.io/badge/©_Clyra-All_Rights_Reserved.25-orange
