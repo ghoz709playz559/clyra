@@ -71,5 +71,5 @@ All rights to the content, branding, and downloads are reserved.
 
 <p align="center">
   <img src=https://img.shields.io/badge/©_Clyra-All_Rights_Reserved.-orange>
-  >img src=https://img.shields.io/badge/Clyra_Corporation,_Inc-brightgreen?style=for-the-badge>
+  <img src=https://img.shields.io/badge/Clyra_Corporation,_Inc-brightgreen?style=for-the-badge>
 </p>
