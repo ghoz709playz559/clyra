@@ -72,4 +72,5 @@ All rights to the content, branding, and downloads are reserved.
 </p>
 
 <p align="center">
-  <img src=https://img.shields.io/badge/©_Clyra-All_Rights_Reserved.%25-orange
+  <img src=https://img.shields.io/badge/©_Clyra-All_Rights_Reserved.25-orange>
+</p>
