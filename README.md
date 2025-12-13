@@ -67,10 +67,9 @@ All rights to the content, branding, and downloads are reserved.
 
 <p align="center">
   <sub>Official Clyra distribution site</sub>
-  <sub>© Clyra. All Rights Reserved.</sub>
-  <sub>Clyra Corporation, Inc</sub>
 </p>
 
 <p align="center">
-  <img src=https://img.shields.io/badge/©_Clyra-All_Rights_Reserved.25-orange>
+  <img src=https://img.shields.io/badge/©_Clyra-All_Rights_Reserved.-orange>
+  >img src=https://img.shields.io/badge/Clyra_Corporation,_Inc-brightgreen?style=for-the-badge>
 </p>
