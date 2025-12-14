@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="logo.png" alt="Clyra Logo" width="120">
+</p>
+
+<h1 align="center">Clyra</h1>
+
+<p align="center">
+    <img src=https://img.shields.io/badge/All_Rights_Reserved_License-brightgreen?style=for-the-badge>
+</p>
+
 # ALL RIGHTS RESERVED  
 ## PROPRIETARY SOFTWARE LICENSE AGREEMENT
 
@@ -133,4 +143,11 @@ For licensing inquiries or to request written permission, contact:
 
 ---
 
-**END OF TERMS AND CONDITIONS**
+<p align="center">
+  <sub>Official Clyra distribution site</sub>
+</p>
+
+<p align="center">
+  <img src=https://img.shields.io/badge/©_Clyra-All_Rights_Reserved.-orange>
+  <img src=https://img.shields.io/badge/Clyra_Corporation,_Inc-brightgreen?style=for-the-badge>
+</p>
