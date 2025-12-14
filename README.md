@@ -74,7 +74,7 @@ All rights to the content, branding, and downloads are reserved.
 
 ## 🔗 Links
 
-- 🌐 Website: *your-site-url*
+- 🌐 Website: https://clyramc.qzz.io
 - 💬 Discord: *coming soon*
 
 ---
