@@ -13,8 +13,7 @@
   <img src="https://img.shields.io/badge/Minecraft-1.21--1.21.10-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Online-5865F2?style=for-the-badge">
   <img src="https://img.shields.io/badge/License-ARR-red?style=for-the-badge">
-  <img src=https://img.shields.io/badge/build-success-brightgreen?style=for-the-badge>
-</p>
+[![Discord](https://img.shields.io/discord/289587909051416579.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/papermc)</p>
 
 ---
 
